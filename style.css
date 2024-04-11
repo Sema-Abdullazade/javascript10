@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(17, 129, 105);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table,
+th,
+td {
+    color: black;
+    border: 1px solid #070707;
+    padding: 8px;
+}
+
+button {
+    margin-top: 4px;
+    /*padding: 8px 16px;*/
+    font-size: 18px;
+    background-color: #38f170;
+    color: #fff;
+    border: 1px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00b31e;
+}
+
+.yaddaSaxla {
+    background-color: #0f6d25;
+    color: #fff;
+    margin-right: 5px;
+}
+
+.yaddaSaxla:hover {
+    background-color: #1cff1c;
+}
+
+.sil {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.sil:hover {
+    background-color: #9b1212;
+}
+
+.duzelis {
+    background-color: #af8e20;
+    color: #fff;
+}
+
+.duzelis:hover {
+    background-color: #899c1c;
+}
